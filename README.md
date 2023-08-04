@@ -15,28 +15,28 @@ This repository documents my journey in learning Deep Learning with PyTorch. I h
    - Understanding automatic differentiation in PyTorch
    - Computing gradients with autograd
 
-3. **03_training_pipelines.ipynb**
+3. **03 and 4_backpropagation.ipynb**
    - Overview of the typical training pipeline
    - Defining loss functions and optimizers
    - Implementing a basic training loop
 
-4. **04_backpropagation.ipynb**
+4. **05 and 6_training pipelines.ipynb**
    - Understanding backpropagation in neural networks
    - Calculating gradients for model parameters
 
-5. **05_dataset_loaders.ipynb**
+5. **7 and 8_dataset_loaders.ipynb**
    - Working with datasets and data loaders in PyTorch
    - Splitting data into training, validation, and test sets
 
-6. **06_ffn_networks.ipynb**
+6. **9 and 10_ffn_networks.ipynb**
    - Implementing Feedforward Neural Networks (FFN)
    - Training a simple FFN on a toy dataset
 
-7. **07_cnn.ipynb**
+7. **11_cnn.ipynb**
    - Introduction to Convolutional Neural Networks (CNN)
    - Building and training a CNN for image classification
 
-8. **08_transfer_learning.ipynb**
+8. **12_transfer_learning.ipynb**
    - Transfer learning with pre-trained models
    - Fine-tuning a pre-trained CNN on a custom dataset
 
@@ -46,7 +46,3 @@ To get started with this repository, you need to have PyTorch installed on your 
 
 After installing PyTorch, you can clone this repository and run the Jupyter notebooks to explore the different topics covered in the notebooks.
 
-```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
-jupyter notebook
