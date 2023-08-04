@@ -1,4 +1,5 @@
-# Deep Learning with PyTorch
+# Journey of Learning Deep Learning with PyTorch
+
 
 ![PyTorch Logo](https://pytorch.org/assets/images/pytorch-logo.png)
 
